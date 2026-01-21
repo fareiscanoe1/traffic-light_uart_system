@@ -1,0 +1,1 @@
+Designed and verified a UART transmitter/receiver in VHDL on a Cyclone FPGA (DE2) using FSM-based control and shift registers for serial framing. Integrated a MAX232 for RS-232 level shifting and built an LED-driven debug + testbench workflow to validate bit timing, parity/framing, and end-to-end communication.
